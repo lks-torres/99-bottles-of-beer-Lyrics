@@ -1,0 +1,12 @@
+body{
+	background: GoldenRod;
+}
+h1{
+	text-align:center;
+	color:black
+}
+#main{
+	text-align:center;
+	color:white;
+	
+}
